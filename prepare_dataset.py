@@ -2,8 +2,8 @@ import json
 import librosa
 import os
 
-DATASET_PATH = 'dataset'
-JSON_PATH = 'data.json'
+DATASET_PATH = './dataset'
+JSON_PATH = './data.json'
 SAMPLES_TO_CONSIDER = 22050  # 1s worth of sound for 44100Hz
 
 
